@@ -1,5 +1,5 @@
 {
-  "name": "react-tag-autocomplete",
+  "name": "@dominathan/react-tag-autocomplete",
   "version": "5.5.1",
   "description": "React Tag Autocomplete is a simple tagging component ready to drop in your React projects.",
   "main": "dist-es5/ReactTags.js",
@@ -39,7 +39,7 @@
     "Mike Kamermans"
   ],
   "license": "MIT",
-  "repository": "https://github.com/i-like-robots/react-tags",
+  "repository": "https://github.com/Nathan219/react-tags",
   "peerDependencies": {
     "prop-types": "^15.0.0",
     "react": "^15.0.0 || ^16.0.0",
